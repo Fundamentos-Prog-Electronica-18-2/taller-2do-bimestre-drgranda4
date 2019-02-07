@@ -1,0 +1,4 @@
+2 4 --- Suma: 6 --- Multiplicación: 8
+2 4 --- Suma: 6 --- Multiplicación: 8
+2 5 --- Suma: 7 --- Multiplicación: 10
+5 545 --- Suma: 550 --- Multiplicación: 2725
